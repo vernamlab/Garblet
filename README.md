@@ -30,11 +30,11 @@ Garblet is a secure multi-party computation (MPC) framework designed for protect
 If you use Garblet in your research, please cite:
 
 ```
-@inproceedings{hashemi2025garblet,
-  author    = {Mohammad Hashemi and Shahin Tajik and Fatemeh Ganji},
-  title     = {Garblet: Multi-party Computation for Protecting Chiplet-based Systems},
-  booktitle = {IEEE VLSI Test Symposium (VTS)},
-  year      = {2025}
+@article{hashemi2025garblet,
+  title={Garblet: Multi-party Computation for Protecting Chiplet-based Systems},
+  author={Hashemi, Mohammad and Tajik, Shahin and Ganji, Fatemeh},
+  journal={Cryptology ePrint Archive},
+  year={2025}
 }
 ```
 
