@@ -41,7 +41,7 @@ If you use Garblet in your research, please cite:
 ## Contact
 
 For any questions or collaborations, feel free to reach out to:  
-📧 mhashemi@wpi.edu | stajik@wpi.edu | fganji@wpi.edu
+📧 fganji@wpi.edu | mhashemi@wpi.edu  
 
 ---
 
