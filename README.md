@@ -45,4 +45,4 @@ For any questions or collaborations, feel free to reach out to:
 
 ---
 
-This repository is under construction and is dedicated to advancing **secure computation for chiplet-based architectures**. Contributions and discussions are welcome!
+This repository is **under construction** and is dedicated to advancing **secure computation for chiplet-based architectures**. Contributions and discussions are welcome!
